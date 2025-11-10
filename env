@@ -19,7 +19,8 @@ CI_ENVIRONMENT = development
 #--------------------------------------------------------------------
 # APP
 #--------------------------------------------------------------------
-app.baseURL = 'http://ModuloLenguaNahuatl.v/'
+#app.baseURL = 'http://ModuloLenguaNahuatl.v/'
+app.baseURL = 'modulolenguanahuatl.netlify.app'
 # app.baseURL = ''
 # If you have trouble with `.`, you could also use `_`.
 # app_baseURL = ''
