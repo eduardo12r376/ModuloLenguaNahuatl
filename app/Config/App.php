@@ -17,7 +17,7 @@ class App extends BaseConfig
      * E.g., http://example.com/
      */
     //public string $baseURL = 'http://ModuloLenguaNahuatl.v/';
-    public string $baseURL = 'modulolenguanahuatl.netlify.app';
+    public string $baseURL = 'https://modulolenguanahuatl.netlify.app/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
