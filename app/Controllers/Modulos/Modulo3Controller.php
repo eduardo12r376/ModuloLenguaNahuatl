@@ -6,6 +6,6 @@ use App\Controllers\BaseController;
 class Modulo3Controller extends BaseController{
     
     public function index(){
-        return view('modules/mod3');
+        return view('modules\mod3');
     }
 }
